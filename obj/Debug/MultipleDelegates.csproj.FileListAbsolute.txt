@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\c shap delegates\MultipleDelegates\bin\Debug\MultipleDelegates.exe.config
+C:\Users\lenovo\source\repos\c shap delegates\MultipleDelegates\bin\Debug\MultipleDelegates.exe
+C:\Users\lenovo\source\repos\c shap delegates\MultipleDelegates\bin\Debug\MultipleDelegates.pdb
+C:\Users\lenovo\source\repos\c shap delegates\MultipleDelegates\obj\Debug\MultipleDelegates.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\c shap delegates\MultipleDelegates\obj\Debug\MultipleDelegates.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\c shap delegates\MultipleDelegates\obj\Debug\MultipleDelegates.exe
+C:\Users\lenovo\source\repos\c shap delegates\MultipleDelegates\obj\Debug\MultipleDelegates.pdb
